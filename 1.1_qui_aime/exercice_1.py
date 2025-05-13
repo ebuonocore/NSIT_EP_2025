@@ -1,0 +1,2 @@
+def conclusion(utilisateurs):
+    pass
